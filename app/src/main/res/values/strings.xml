@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsAPI</string>
+    <string name="no_book_retrieved">No news retrieved. Check the spelling of your request or try a synonym.</string>
+    <string name="section_placeholder">Upgraded Life</string>
+    <string name="title_placeholder">Why you should get up in the morning.</string>
+    <string name="no_internet_connection">No internet connection. Turn it on!</string>
+    <string name="search_keyword">Search keyword</string>
+    <string name="hint_search_field">Enter a keyword to get related data</string>
+</resources>
